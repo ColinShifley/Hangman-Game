@@ -1,0 +1,38 @@
+  @font-face {
+    font-family: 'terminatorregular';
+    src: url('assets/css/fonts/terminat-webfont.woff2') format('woff2'),
+         url('assets/css/fonts/terminat-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+background-color: black;
+}
+
+img {
+	width: 100%;
+}
+
+#wrapper {
+	width: 60%;
+	margin: 0 auto;
+}
+
+h1 {
+	color: white;
+	font-size: 1.75em;
+	font-family: 'terminatorregular', sans-serif;
+}
+
+h2 {
+	color: white;
+	font-size: 1em;
+	font-family: 'terminatorregular', sans-serif;
+}
+
+#blanks {
+	color: white;
+	font-family: sans-serif;
+}
